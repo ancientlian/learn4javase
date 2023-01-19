@@ -9,7 +9,7 @@ import java.lang.reflect.Method;
 import java.nio.charset.StandardCharsets;
 
 public class ExecCmdTest {
-    
+
     @SuppressWarnings("unchecked")
     public static void main(String[] args) {
         try {
